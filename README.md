@@ -9,13 +9,13 @@ This project is a template for newsletter signup page which adds users to my new
 
 ## Snapshots:
 ### Home Page-
-<img alt="home-image" src="/static/images/Homesample.png">
+<img alt="home-image" src="/static/imgs/Homesample.png">
 
 ### Success Page-
-<img alt="success-image" src="/static/images/successsample.png">
+<img alt="success-image" src="/static/imgs/successsample.png">
 
 ### Failure Page-
-<img alt="failure-image" src="/static/images/failedsample.png">
+<img alt="failure-image" src="/static/imgs/failedsample.png">
 
 For the website I've used the following resources:
 * ***Icons***: [FlatIcons](https://www.flaticon.com/)
