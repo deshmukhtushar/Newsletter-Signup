@@ -3,26 +3,20 @@ This is one of the projects for The Complete Web Development Bootcamp Course.
 
 The Web app focusses on implementing Full Stack Web Development Using NodeJS and ExpressJS as backend along with use of requests module for working with third party apis.
 
+It's frontend is designed with HTML, CSS and JavaScript.
+
 This project is a template for newsletter signup page which adds users to my newsletter using mailchimp's apis.
 
 ## Snapshots:
 ### Home Page-
-<img alt="home-image" src="imgs/home.PNG">
+<img alt="home-image" src="/static/images/Homesample.png">
 
 ### Success Page-
-<img alt="success-image" src="imgs/success.PNG">
+<img alt="success-image" src="/static/images/successsample.png">
 
 ### Failure Page-
-<img alt="failure-image" src="imgs/failure.PNG">
+<img alt="failure-image" src="/static/images/failedsample.png">
 
-
-## Inspiration:
-The inspiration for the website have been taken from the follwing:
-* [Angela Yu](https://github.com/angelabauer)'s Complete Web Development Bootcamp Course on Udemy.
-
-
-## Acknowledgements:
-I'd like to express my greatest gratitude towards Angela Yu for her amazing teaching efforts and course.
 For the website I've used the following resources:
 * ***Icons***: [FlatIcons](https://www.flaticon.com/)
 * ***Fonts***: [GoogleFonts](https://fonts.google.com/)
